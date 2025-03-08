@@ -1,10 +1,11 @@
-## FarmWise, by Srcbook
-
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+## FarmWise
+This just a template to get you started with your development and structure
 
 To run the devserver:
 ```
 npm install
+npm expo install
 npm run dev
+npm expo start
+
 ```
